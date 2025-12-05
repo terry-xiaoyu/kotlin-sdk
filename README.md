@@ -1,6 +1,7 @@
 # MCP Kotlin SDK
 
 
+[![](https://jitpack.io/v/terry-xiaoyu/kotlin-sdk.svg)](https://jitpack.io/#terry-xiaoyu/kotlin-sdk)
 [![Maven Central](https://img.shields.io/maven-central/v/io.modelcontextprotocol/kotlin-sdk.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.modelcontextprotocol/kotlin-sdk)
 [![Build](https://github.com/modelcontextprotocol/kotlin-sdk/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/modelcontextprotocol/kotlin-sdk/actions/workflows/build.yml)
 [![Kotlin](https://img.shields.io/badge/kotlin-2.2+-blueviolet.svg?logo=kotlin)](http://kotlinlang.org)
